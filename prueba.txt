@@ -1,1 +1,5 @@
 hola
+<<<<<<< HEAD
+=======
+Hola2
+>>>>>>> b5a231470758bf7deddc0e448cb97662e1fb7d13
